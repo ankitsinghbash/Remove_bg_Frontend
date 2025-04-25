@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Remove_bg_Frontend
+This is a frontend project of name bgremove that remove the background of an image using machine learning algorithm as well as user download image in any format of image as well i give access to downlaod the image in any pixel size.
+>>>>>>> 11bc6d30016612a81725c6ccf9b88d4bfa7ba963
